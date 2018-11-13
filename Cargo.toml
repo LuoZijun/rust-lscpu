@@ -1,0 +1,9 @@
+[package]
+name = "lscpu"
+version = "0.1.0"
+authors = ["luozijun <luozijun.assistant@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+raw-cpuid = "6.1"
+
